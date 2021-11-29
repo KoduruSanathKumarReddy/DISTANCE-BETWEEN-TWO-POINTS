@@ -9,7 +9,7 @@ Import numpy
 Assign l1=[10,6]
 Assign l2=[4,2]
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula1.jpg)
 ### Step 4: 
 Process dist=np.sqrt(((l1[0]-l2[0])**2)+((l1[1]-l2[1])**2))
 ### Step 5: 
