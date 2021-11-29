@@ -29,7 +29,7 @@ print("{:.2f}".format(dist))
 ~~~
 
 ### OUTPUT:
-
+![OutPut1](./Distance.png)
 
 ### RESULT:
 Thus the distance between two points is calculated successfully.
